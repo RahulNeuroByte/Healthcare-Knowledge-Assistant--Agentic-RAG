@@ -1,0 +1,13 @@
+flowchart TD
+    Q[User query] --> P[Planner]
+    P --> R[Retriever agent]
+    R --> T[RAG tool]
+    T --> H[Hybrid retrieval: FAISS + BM25-style]
+    H --> C[Consultation specialist / diagnosis boundary]
+    C --> V[Grounding validator]
+    V -->|unsupported, retry once with larger k| R
+    V -->|validated| O[Answer + sources + context + trace]
+    O --> API[FastAPI /query]
+    API --> UI[Streamlit chat]
+    UI --> F[Feedback endpoint]
+    F --> L[Feedback JSONL for offline review]

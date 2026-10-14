@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+data/faiss_index/
+data/feedback.jsonl
+reports/*.csv
+reports/*.pdf
+.DS_Store
+Execution.md

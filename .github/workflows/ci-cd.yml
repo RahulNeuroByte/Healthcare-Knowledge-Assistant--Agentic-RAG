@@ -1,0 +1,68 @@
+name: Python CI and Azure App Service deploy
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements-dev.txt
+      - run: ruff check src api ui tests --output-format=github
+      - run: pytest -q
+      - name: Create deployment source package
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        run: |
+          mkdir -p deploy-package
+          cp -r api src data deploy-package/
+          cp requirements.txt deploy-package/
+          cd deploy-package
+          zip -qr ../healthcare-api.zip .
+      - uses: actions/upload-artifact@v4
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        with:
+          name: healthcare-api
+          path: healthcare-api.zip
+          retention-days: 14
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && vars.AZURE_WEBAPP_NAME != ''
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: healthcare-api
+      - name: Verify Azure publish profile is configured
+        env:
+          AZURE_PROFILE: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+        run: |
+          if [ -z "$AZURE_PROFILE" ]; then
+            echo "Set the AZURE_WEBAPP_PUBLISH_PROFILE repository secret before enabling Azure deployment." >&2
+            exit 1
+          fi
+      - name: Deploy Python source ZIP to Azure App Service
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: ${{ vars.AZURE_WEBAPP_NAME }}
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          package: healthcare-api.zip
+      - name: Validate deployment health endpoint
+        if: vars.DEPLOY_URL != ''
+        env:
+          DEPLOY_URL: ${{ vars.DEPLOY_URL }}
+        run: |
+          for attempt in $(seq 1 20); do
+            if curl --fail --silent "$DEPLOY_URL/health"; then exit 0; fi
+            sleep 15
+          done
+          echo "Health validation failed. Redeploy the previous successful GitHub Actions artifact/revision in Azure App Service." >&2
+          exit 1

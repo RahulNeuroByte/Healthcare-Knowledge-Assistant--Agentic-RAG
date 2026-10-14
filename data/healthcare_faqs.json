@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "FAQ-001",
+    "category": "Prevention and checkups",
+    "question": "How often should I have a routine health checkup?",
+    "answer": "There is no single schedule for everyone. Preventive visits depend on age, medical history, risk factors, and local guidance. Ask a qualified clinician which screenings and visits are appropriate for you.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-002",
+    "category": "Prevention and checkups",
+    "question": "What happens during a preventive care visit?",
+    "answer": "A preventive visit may review health history, medicines, vaccinations, lifestyle, and age- or risk-based screening. The exact content varies; ask the clinic what is included.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-003",
+    "category": "Prevention and checkups",
+    "question": "What is preventive health care?",
+    "answer": "Preventive care aims to support health and identify concerns early through measures such as recommended vaccinations, counseling, and screening. Recommendations vary by person and country.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-004",
+    "category": "Prevention and checkups",
+    "question": "How do I prepare for a doctor appointment?",
+    "answer": "Write down your concerns, symptoms and when they began, medicines and supplements, allergies, and questions. Bring relevant records and ask what follow-up is needed.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-005",
+    "category": "Prevention and checkups",
+    "question": "What should I tell my clinician about my medicines?",
+    "answer": "Share the name, dose, schedule, and reason for every prescription, over-the-counter product, vitamin, and supplement, along with allergies or side effects.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-006",
+    "category": "Prevention and checkups",
+    "question": "How can I keep a useful health record?",
+    "answer": "Keep an up-to-date list of conditions, medicines, allergies, vaccinations, and key test results. Store it securely and share only with people involved in your care.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-007",
+    "category": "Prevention and checkups",
+    "question": "Are screening tests right for everyone?",
+    "answer": "No. Benefits and possible harms vary by test and by personal risk. Discuss age, history, preferences, and local recommendations with a qualified clinician.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-008",
+    "category": "Prevention and checkups",
+    "question": "What is shared decision-making in health care?",
+    "answer": "It is a discussion in which a patient and clinician consider the available evidence, benefits, risks, and the patient’s values before choosing among reasonable options.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-009",
+    "category": "Prevention and checkups",
+    "question": "How can I find reliable health information online?",
+    "answer": "Prefer current material from public health agencies, recognized medical institutions, or peer-reviewed sources. Check the date, author, evidence, and whether claims are selling a product.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-010",
+    "category": "Prevention and checkups",
+    "question": "What should I do if I do not understand a diagnosis or plan?",
+    "answer": "Ask the clinician to explain it in plain language, write down next steps, and clarify warning signs, medicines, and who to contact with questions.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "Maddy! is Health Care Agent which can guide you by resolving your day to day health related doubts...It Can make mistakes so kindly refer to auntheticated healthcare webistes or contact to doctor for serious health... "
+  },
+  {
+    "id": "FAQ-011",
+    "category": "Vaccines and infection prevention",
+    "question": "How do vaccines help protect people?",
+    "answer": "Vaccines train the immune system to recognize a disease-causing organism. The type, timing, benefits, and risks depend on the vaccine and individual circumstances; consult official local guidance.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-012",
+    "category": "Vaccines and infection prevention",
+    "question": "Where can I find the vaccine schedule for my age?",
+    "answer": "Use your national or local public health authority’s current schedule and discuss personal circumstances with a clinician. Schedules can differ by country and change over time.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-013",
+    "category": "Vaccines and infection prevention",
+    "question": "Can adults need vaccines too?",
+    "answer": "Yes. Some vaccines are recommended in adulthood based on age, prior doses, health conditions, occupation, travel, or pregnancy. Check current local guidance.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-014",
+    "category": "Vaccines and infection prevention",
+    "question": "What should I do if I am unsure which vaccines I received?",
+    "answer": "Ask your clinic or public health authority whether records can be located. A clinician can advise what to do when records are incomplete.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-015",
+    "category": "Vaccines and infection prevention",
+    "question": "How can I reduce the spread of respiratory infections?",
+    "answer": "Follow current local public health advice. Measures may include staying home when ill, improving ventilation, hand hygiene, and using a well-fitting mask in relevant settings.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-016",
+    "category": "Vaccines and infection prevention",
+    "question": "When should I wash my hands?",
+    "answer": "Wash with soap and water at key times such as before eating or preparing food and after using the toilet. Follow public health advice for your setting and situation.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-017",
+    "category": "Vaccines and infection prevention",
+    "question": "What is the right way to use hand sanitizer?",
+    "answer": "When soap and water are not available, use an alcohol-based sanitizer according to its label and rub over all hand surfaces until dry. Keep it away from children unless supervised.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-018",
+    "category": "Vaccines and infection prevention",
+    "question": "Do antibiotics treat colds and flu?",
+    "answer": "Antibiotics treat certain bacterial infections, not viruses such as common colds or influenza. A clinician should decide whether an antibiotic is appropriate.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-019",
+    "category": "Vaccines and infection prevention",
+    "question": "Why should I take antibiotics exactly as prescribed?",
+    "answer": "Use antibiotics only as directed by a qualified prescriber. Do not share or save them; contact the prescriber or pharmacist if you have questions or side effects.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-020",
+    "category": "Vaccines and infection prevention",
+    "question": "How can I reduce foodborne illness risk at home?",
+    "answer": "Follow local food-safety guidance: keep food clean, separate raw and ready-to-eat items, cook appropriately, and chill foods promptly.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-021",
+    "category": "Nutrition and hydration",
+    "question": "What does a balanced diet mean?",
+    "answer": "A healthy eating pattern emphasizes variety and balance. Needs differ by age, health, culture, and access; consult trusted national dietary guidance or a registered dietitian.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-022",
+    "category": "Nutrition and hydration",
+    "question": "How much water should I drink each day?",
+    "answer": "Fluid needs vary with activity, climate, age, pregnancy, and health conditions. Ask a clinician for individualized advice, especially if you have been given fluid limits.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-023",
+    "category": "Nutrition and hydration",
+    "question": "Are dietary supplements always safe?",
+    "answer": "No. Supplements can have side effects or interact with medicines, and quality varies. Discuss them with a clinician or pharmacist before use.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-024",
+    "category": "Nutrition and hydration",
+    "question": "Should I take vitamins to prevent illness?",
+    "answer": "Not everyone needs supplements, and they do not replace a varied diet or medical care. Ask a clinician whether a specific supplement is appropriate for you.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-025",
+    "category": "Nutrition and hydration",
+    "question": "How can I reduce added sugar in my diet?",
+    "answer": "Read nutrition labels, compare products, and choose less-sweet options when practical. Follow locally applicable dietary guidance and consider individualized advice.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-026",
+    "category": "Nutrition and hydration",
+    "question": "Is salt the same as sodium on food labels?",
+    "answer": "Salt contains sodium, and labels may list sodium rather than salt. Compare serving sizes and follow advice from a clinician or public health authority.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-027",
+    "category": "Nutrition and hydration",
+    "question": "How can I eat healthfully on a limited budget?",
+    "answer": "Planning meals, comparing unit prices, and using affordable seasonal or shelf-stable foods may help. Local community programs can provide additional support.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-028",
+    "category": "Nutrition and hydration",
+    "question": "What is food insecurity?",
+    "answer": "Food insecurity means limited or uncertain access to enough safe and nutritious food. Local health or social-service agencies may connect people with available assistance.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-029",
+    "category": "Nutrition and hydration",
+    "question": "Are detox diets necessary?",
+    "answer": "Claims that special detox diets remove toxins or treat disease should be approached cautiously. Ask a qualified clinician before restrictive diets or supplements.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-030",
+    "category": "Nutrition and hydration",
+    "question": "What should I know about food allergies?",
+    "answer": "Food allergies can cause reactions that range in severity. Avoid known triggers as directed by your clinician and follow an emergency plan if one has been prescribed.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-031",
+    "category": "Physical activity and sleep",
+    "question": "How much physical activity should adults get?",
+    "answer": "Recommendations vary with age and health status. Follow current guidance from your public health authority and ask a clinician how to adapt activity to your circumstances.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-032",
+    "category": "Physical activity and sleep",
+    "question": "Can I start exercising if I have been inactive?",
+    "answer": "Many people can begin gradually, but health conditions or symptoms may require medical advice first. Stop and seek help for concerning symptoms during activity.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-033",
+    "category": "Physical activity and sleep",
+    "question": "Do I need to exercise intensely to benefit?",
+    "answer": "Not necessarily. Some activity is generally better than none, and activities can be adapted. Ask a clinician about a safe plan if you have health concerns.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-034",
+    "category": "Physical activity and sleep",
+    "question": "How can I reduce sitting time?",
+    "answer": "Take movement breaks when practical, such as standing or walking briefly. Adapt movement to your abilities and any care plan.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-035",
+    "category": "Physical activity and sleep",
+    "question": "How much sleep do adults need?",
+    "answer": "Sleep needs vary by age and person. Persistent sleep problems or daytime impairment are reasons to discuss the issue with a health professional.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-036",
+    "category": "Physical activity and sleep",
+    "question": "What habits may support better sleep?",
+    "answer": "A consistent sleep and wake schedule and a comfortable sleep environment may help. Persistent problems deserve discussion with a qualified clinician.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-037",
+    "category": "Physical activity and sleep",
+    "question": "When should I seek help for snoring or sleep problems?",
+    "answer": "Discuss persistent loud snoring, pauses in breathing noticed by another person, or ongoing daytime sleepiness with a clinician. This FAQ cannot diagnose a sleep disorder.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-038",
+    "category": "Physical activity and sleep",
+    "question": "Is stretching a substitute for all exercise?",
+    "answer": "Stretching can support flexibility but does not provide every benefit of other forms of movement. Choose safe activities suited to your needs.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-039",
+    "category": "Physical activity and sleep",
+    "question": "How do I stay active with a disability?",
+    "answer": "A clinician or physical-activity professional familiar with your needs may help adapt activities, equipment, and goals safely.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-040",
+    "category": "Physical activity and sleep",
+    "question": "What should I do if activity causes chest pain or fainting?",
+    "answer": "Stop the activity and seek urgent medical assessment. If symptoms are severe or ongoing, contact local emergency services.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-041",
+    "category": "Mental health and substance use",
+    "question": "What is mental health?",
+    "answer": "Mental health includes emotional, psychological, and social well-being. It can change over time and is influenced by many personal and social factors.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-042",
+    "category": "Mental health and substance use",
+    "question": "When should I talk to someone about my mental health?",
+    "answer": "Consider speaking with a qualified professional when distress persists, affects daily life, or feels difficult to manage. A primary-care clinician can help identify support options.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-043",
+    "category": "Mental health and substance use",
+    "question": "How can I support someone who seems distressed?",
+    "answer": "Listen without judgment, ask what support they want, and encourage professional help when appropriate. If there is immediate danger, contact local emergency services.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-044",
+    "category": "Mental health and substance use",
+    "question": "What should I do in a mental health crisis?",
+    "answer": "If someone may be in immediate danger, contact local emergency services or a local crisis service now. Stay with them if it is safe and follow professional instructions.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-045",
+    "category": "Mental health and substance use",
+    "question": "Can stress affect physical health?",
+    "answer": "Stress can affect people in different ways and may influence well-being. If symptoms are persistent or severe, discuss them with a qualified clinician.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-046",
+    "category": "Mental health and substance use",
+    "question": "Is therapy only for severe mental illness?",
+    "answer": "No. People seek therapy for many reasons, including coping with stress, relationships, grief, or mental health conditions. Access and approaches vary.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-047",
+    "category": "Mental health and substance use",
+    "question": "How can I find a mental health professional?",
+    "answer": "Ask a primary-care clinician, insurer, or local health authority for options. Check credentials, availability, language, cost, and whether the service fits your needs.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-048",
+    "category": "Mental health and substance use",
+    "question": "Can alcohol affect health?",
+    "answer": "Alcohol can affect health and interact with medicines. Risks vary by person and amount; ask a clinician for advice relevant to your circumstances.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-049",
+    "category": "Mental health and substance use",
+    "question": "How can someone seek help to stop smoking?",
+    "answer": "A clinician or local public health service can discuss counseling and approved treatments. Support options vary by location.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-050",
+    "category": "Mental health and substance use",
+    "question": "Where can I get help for substance use?",
+    "answer": "A qualified health professional or local public health service can explain confidential treatment and support options. In an emergency, contact local emergency services.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-051",
+    "category": "Medicines and chronic conditions",
+    "question": "Should I stop a prescribed medicine if I feel better?",
+    "answer": "Do not stop or change a prescribed medicine without checking with the prescriber or pharmacist, unless you are experiencing an emergency reaction and need urgent help.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-052",
+    "category": "Medicines and chronic conditions",
+    "question": "What should I do if I miss a dose?",
+    "answer": "Instructions depend on the medicine. Check its patient information and contact a pharmacist or prescriber; do not double a dose unless they specifically tell you to.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-053",
+    "category": "Medicines and chronic conditions",
+    "question": "Can medicines interact with supplements?",
+    "answer": "Yes. Medicines, supplements, and foods can interact. Give your clinician or pharmacist a complete list and ask before starting something new.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-054",
+    "category": "Medicines and chronic conditions",
+    "question": "How should I store medicines?",
+    "answer": "Follow the product label or pharmacist’s instructions, including temperature and moisture guidance. Keep medicines secured and away from children.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-055",
+    "category": "Medicines and chronic conditions",
+    "question": "How do I dispose of unused medicines?",
+    "answer": "Use a local pharmacy or official medicine take-back program when available. Follow local disposal guidance; do not assume flushing or household trash is appropriate.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-056",
+    "category": "Medicines and chronic conditions",
+    "question": "What is a chronic condition?",
+    "answer": "A chronic condition is a health problem that often requires ongoing management. The meaning and care needs depend on the specific condition and person.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-057",
+    "category": "Medicines and chronic conditions",
+    "question": "How can I prepare for living with a new chronic condition?",
+    "answer": "Ask the care team about the condition, treatment choices, monitoring, warning signs, follow-up, and support. Keep written instructions and clarify any uncertainties.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-058",
+    "category": "Medicines and chronic conditions",
+    "question": "How can I remember to take my medicines?",
+    "answer": "A routine, written medication list, or reminder system may help. Check with a pharmacist before changing packaging or combining doses.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-059",
+    "category": "Medicines and chronic conditions",
+    "question": "What is medication reconciliation?",
+    "answer": "It is a review that compares the medicines a person uses with the health record, often during care transitions, to identify discrepancies.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-060",
+    "category": "Medicines and chronic conditions",
+    "question": "Who can explain a medicine label?",
+    "answer": "A pharmacist or prescriber can clarify directions, warnings, and what to do if a dose is missed. Do not guess when instructions are unclear.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-061",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "What does blood pressure measure?",
+    "answer": "Blood pressure measures the force of blood against artery walls. A reading needs interpretation in context; a clinician can explain what your readings mean.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-062",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "How should I prepare for a blood pressure measurement?",
+    "answer": "Follow the measuring device and clinician instructions. Ask whether to rest beforehand and how to record repeat readings for a more useful discussion.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-063",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "Can one high blood pressure reading diagnose hypertension?",
+    "answer": "A single reading may not be enough to establish a diagnosis. A clinician interprets readings over time and in context.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-064",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "What is diabetes?",
+    "answer": "Diabetes is a group of conditions affecting how the body regulates blood glucose. Diagnosis and management require qualified medical assessment.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-065",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "Can I change diabetes medicine based on one glucose result?",
+    "answer": "Do not adjust prescribed treatment based on this FAQ. Follow your individualized care plan and contact your clinician for instructions.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-066",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "What is an asthma action plan?",
+    "answer": "It is a personalized written plan created with a healthcare professional describing routine management and what to do if symptoms worsen.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-067",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "What should I do if breathing suddenly becomes difficult?",
+    "answer": "Sudden or severe breathing difficulty can be an emergency. Contact local emergency services immediately and follow any clinician-provided emergency plan.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-068",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "Can inhalers be used incorrectly?",
+    "answer": "Technique matters. Ask a clinician or pharmacist to demonstrate and check your technique for your specific device.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-069",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "How can I reduce exposure to tobacco smoke?",
+    "answer": "Avoiding tobacco smoke and seeking local cessation support may reduce exposure. Ask a health professional for practical steps suited to your situation.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-070",
+    "category": "Heart, diabetes and respiratory health",
+    "question": "What is chronic kidney disease?",
+    "answer": "It is a long-term condition involving kidney function or structure. Only a clinician can interpret tests and advise on individual monitoring or care.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-071",
+    "category": "Sexual, reproductive and family health",
+    "question": "How can I find reliable information about contraception?",
+    "answer": "A qualified clinician or public health service can explain available methods, effectiveness, risks, and access under local guidance.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-072",
+    "category": "Sexual, reproductive and family health",
+    "question": "When should someone seek prenatal care?",
+    "answer": "People who are pregnant or may be pregnant should contact a qualified maternity-care provider promptly for individualized advice and local care arrangements.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-073",
+    "category": "Sexual, reproductive and family health",
+    "question": "Are vaccines during pregnancy a personal decision?",
+    "answer": "Recommendations depend on the vaccine, timing, location, and individual circumstances. Discuss current local guidance with a maternity-care professional.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-074",
+    "category": "Sexual, reproductive and family health",
+    "question": "Where can I get information about breastfeeding?",
+    "answer": "A maternity-care professional or qualified lactation support service can provide help tailored to the parent and baby.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-075",
+    "category": "Sexual, reproductive and family health",
+    "question": "How can parents find trustworthy information about infant feeding?",
+    "answer": "Use current guidance from a recognized public health or pediatric authority and consult the child’s clinician for individual needs.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-076",
+    "category": "Sexual, reproductive and family health",
+    "question": "How can I discuss sexual health with a clinician?",
+    "answer": "You can ask for a private, nonjudgmental discussion about testing, prevention, contraception, symptoms, and confidentiality. Rules vary by location.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-077",
+    "category": "Sexual, reproductive and family health",
+    "question": "Can sexually transmitted infections have no symptoms?",
+    "answer": "Some infections may have no noticeable symptoms. A clinician or sexual health service can advise about testing based on exposure and local guidance.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-078",
+    "category": "Sexual, reproductive and family health",
+    "question": "What should I do after a possible STI exposure?",
+    "answer": "Contact a healthcare professional or sexual health service promptly to discuss testing and time-sensitive options. Do not rely on symptoms alone.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-079",
+    "category": "Sexual, reproductive and family health",
+    "question": "When should a child have developmental concerns assessed?",
+    "answer": "If you have concerns about development, discuss them with the child’s clinician. They can review milestones and arrange assessment or support if appropriate.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-080",
+    "category": "Sexual, reproductive and family health",
+    "question": "How can caregivers keep children safer around medicines?",
+    "answer": "Store medicines securely and out of reach, use the original labeled container, and follow product instructions. Contact local poison services for accidental exposure.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-081",
+    "category": "Urgent care, safety and navigating care",
+    "question": "When should I call emergency services?",
+    "answer": "Call local emergency services for immediate threats to life or serious sudden symptoms such as severe breathing difficulty, major bleeding, or unresponsiveness.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-082",
+    "category": "Urgent care, safety and navigating care",
+    "question": "What information should I give emergency responders?",
+    "answer": "State your location, what happened, current symptoms, and any known immediate danger. Follow the dispatcher’s instructions.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-083",
+    "category": "Urgent care, safety and navigating care",
+    "question": "What is the difference between urgent care and emergency care?",
+    "answer": "Services differ by location. Emergency departments handle potentially life-threatening problems; local health services can explain where less severe urgent problems are treated.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-084",
+    "category": "Urgent care, safety and navigating care",
+    "question": "How can I check whether a health website is trustworthy?",
+    "answer": "Look for a named responsible organization, review date, evidence links, clear privacy practices, and separation of education from product sales.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-085",
+    "category": "Urgent care, safety and navigating care",
+    "question": "What should I do if online health advice conflicts with my clinician?",
+    "answer": "Ask your clinician to explain the evidence and how it applies to you. Do not change treatment solely because of an online claim.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-086",
+    "category": "Urgent care, safety and navigating care",
+    "question": "Can an AI assistant diagnose me?",
+    "answer": "No. This assistant provides general educational information, not a diagnosis or treatment plan. A qualified clinician must assess individual symptoms and circumstances.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-087",
+    "category": "Urgent care, safety and navigating care",
+    "question": "Is my conversation with a health chatbot medical care?",
+    "answer": "No. It is not a clinical relationship and may not be monitored for emergencies. Avoid sharing identifying or highly sensitive details.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-088",
+    "category": "Urgent care, safety and navigating care",
+    "question": "What if the chatbot answer seems wrong or unsupported?",
+    "answer": "Treat it cautiously, check the cited official source, and consult a qualified professional. You can submit feedback so the answer can be reviewed.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-089",
+    "category": "Urgent care, safety and navigating care",
+    "question": "What is a second medical opinion?",
+    "answer": "It is an additional professional review of a health concern or proposed care. Ask your clinician how to obtain one and whether records need to be shared.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-090",
+    "category": "Urgent care, safety and navigating care",
+    "question": "How can I prepare for a telehealth visit?",
+    "answer": "Check the connection and privacy of your location, have medicines and relevant records nearby, and ask how to get help if the connection fails.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-091",
+    "category": "Environmental and everyday health",
+    "question": "How can I protect myself during extreme heat?",
+    "answer": "Follow local heat alerts, seek a cooler place when possible, and follow advice from public health authorities. People with health conditions may need individualized guidance.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-092",
+    "category": "Environmental and everyday health",
+    "question": "Can air pollution affect health?",
+    "answer": "Air pollution can affect health, with risks varying by pollutant and personal circumstances. Check local air-quality advisories and ask a clinician about individual concerns.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-093",
+    "category": "Environmental and everyday health",
+    "question": "How can I reduce sun exposure?",
+    "answer": "Use locally recommended sun-protection measures such as shade, protective clothing, and sunscreen according to its label. Seek medical advice for concerning skin changes.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-094",
+    "category": "Environmental and everyday health",
+    "question": "How can I make drinking water safer?",
+    "answer": "Follow local public health notices and water-provider instructions. Boil-water or contamination advisories require specific local steps.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-095",
+    "category": "Environmental and everyday health",
+    "question": "Why is dental care part of general health?",
+    "answer": "Oral health is an important part of overall well-being. A dental professional can advise on preventive care, symptoms, and visit timing based on individual needs.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-096",
+    "category": "Environmental and everyday health",
+    "question": "How often should I see a dentist?",
+    "answer": "Visit timing depends on oral health, risk factors, and local recommendations. Ask a dentist what interval is appropriate for you.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-097",
+    "category": "Environmental and everyday health",
+    "question": "Can hearing or vision changes need medical attention?",
+    "answer": "New or worsening changes should be assessed by an appropriate health professional. Sudden severe changes may require urgent assessment.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-098",
+    "category": "Environmental and everyday health",
+    "question": "How can I prevent falls at home?",
+    "answer": "A clinician or occupational therapy professional can assess personal fall risks. Keeping walkways clear and ensuring adequate lighting may help, but individual needs differ.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-099",
+    "category": "Environmental and everyday health",
+    "question": "What should I do after a possible poisoning?",
+    "answer": "Contact your local poison center or emergency service immediately and follow their instructions. Do not wait for symptoms or induce vomiting unless professionals direct you.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  },
+  {
+    "id": "FAQ-100",
+    "category": "Environmental and everyday health",
+    "question": "How can I prepare for a natural disaster if I use medicines?",
+    "answer": "Ask your care team about a safe supply and storage plan, keep a current medicine list, and follow local emergency-management instructions.",
+    "source": "WHO Health Topics; CDC Health Topics; consult the applicable official national/local guidance for current recommendations.",
+    "source_urls": [
+      "https://www.who.int/health-topics",
+      "https://www.cdc.gov/health-topics.html"
+    ],
+    "disclaimer": "General education only; not a diagnosis or a substitute for professional medical care."
+  }
+]
